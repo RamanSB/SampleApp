@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="banner_text_knowing">Knowing</string>
+    <string name="banner_text_beautiful">Is Beautiful</string>
+    <string name="banner_text_highfashion">HIGH FASHION IS FOR THE ELITE.</string>
+
+    <string name="banner_text_highlife">HighLife</string>
+    <string name="banner_text_is_exclusive">IS EXCLUSIVE</string>
+
+    <string name="text_login">Log in</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_signup">Sign up</string>
+    <string name="text_phone">Phone number</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_forgot_password">Forgot your password?</string>
+    <string name="text_referred_by">Referred by</string>
+    <string name="text_alert_dialog_sign_up_request">Your sign up request has been sent to your
+    referee. Please wait for approval. </string>
+</resources>

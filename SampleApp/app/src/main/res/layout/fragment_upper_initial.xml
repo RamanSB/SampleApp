@@ -1,0 +1,42 @@
+<RelativeLayout android:id="@+id/rl_2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBannerTwo"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/tv_knowing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/banner_text_knowing"
+        android:textColor="@android:color/white"
+        android:translationX="-15dp" />
+
+    <TextView
+        android:id="@+id/tv_is_beautiful"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_knowing"
+        android:gravity="center_horizontal"
+        android:text="@string/banner_text_beautiful"
+        android:textColor="@android:color/white"
+        android:translationX="60dp"
+        android:translationY="-36dp" />
+
+    <TextView
+        android:id="@+id/tv_highfasion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_is_beautiful"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:maxLines="1"
+        android:text="@string/banner_text_highfashion"
+        android:translationY="-30dp" />
+
+
+</RelativeLayout>

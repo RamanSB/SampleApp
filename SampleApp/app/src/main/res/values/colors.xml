@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">@color/colorMenu</color>
+
+
+    <color name="colorBannerTwo">#ffb6b4d9</color>
+
+
+    <color name="colorSquareOne">#ffcdcbf3</color>
+    <color name="colorSquareTwo">#ffbcbae1</color>
+    <color name="colorSquareThree">#ffb6b6d6</color>
+    <color name="colorSquareFour">#ffacabcb</color>
+    <color name="colorSquareFive">#ffa6a3c2</color>
+
+
+
+    <color name="colorTextHighFashion">#ff5c5c64</color>
+    <color name="colorTextHighLife">#ffb5b3cb</color>
+    <color name="colorTextExclusive">#ff5d5d5d</color>
+
+    <color name="colorMenu">#ff5c8452</color>
+    <color name="colorUpperButton">#d4d1fc</color>
+</resources>
